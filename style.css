@@ -1,0 +1,66 @@
+body{
+    background-color: antiquewhite;
+    padding: 0;
+    margin: 0;
+}
+
+.Upper-color{
+    color: rgb(247, 116, 106);
+    text-align: center;
+    background-color:cornsilk;
+    padding: 15px;
+}
+
+.Menu-list{
+    color: darkslategray;
+    text-align: center;
+    background-color: cornsilk;
+    padding: 20px;
+    margin: 15px;
+}
+
+.Menu-list a{
+    text-decoration: none;
+}
+
+.menu {
+    color: darkslategray;
+    text-align: center;
+    background-color: cornsilk;
+    margin: 20px;
+}
+
+.menu p{
+    color:cadetblue;
+}
+
+.menu h3{
+    background-color: rgb(139, 206, 240);
+    color: darkcyan;
+    padding: 15px;
+}
+
+h2{
+    color: rgb(171, 139, 240);
+}
+
+.special{
+    color: darkslategray;
+    text-align: center;
+    background-color: cornsilk;
+    margin: 20px;
+}
+
+.special p{
+    color: cadetblue;
+}
+
+.special h3{
+    background-color: rgb(139, 206, 240);
+    color: darkcyan;
+    padding: 15px;
+}
+
+.btn{
+    text-align: center;
+}
